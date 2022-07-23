@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 manager: Shirley
+=======
+manager: Raymond
+>>>>>>> b1a841a (Edit Panthers)
 
 members:
 - Violet
